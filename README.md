@@ -19,6 +19,7 @@
 ### `~/system`
 
 ```text
+──────────────────────────────────────────────────
 USER        : Hamid Mujtaba
 ROLE        : GenAI Engineer
 FOCUS       : LLM Applications
@@ -48,12 +49,12 @@ PLATFORM    : Linux
 ```
 
 </td>
-
 <td width="50%" valign="top">
 
 ### `~/status`
 
 ```text
+──────────────────────────────────────────────────
 STATUS      : ONLINE ●
 
 BUILDING    : GenAI applications
@@ -90,7 +91,7 @@ CURRENT     : Turning LLMs into
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│   INPUT  ──►  RETRIEVE  ──►  REASON  ──►  ACT  ──►  OUTPUT         │
+│   INPUT  ──►  RETRIEVE  ──►  REASON  ──►  ACT  ──►  OUTPUT          │
 │               │                 │          │                        │
 │               ├─ embeddings     ├─ LLM     ├─ tools                 │
 │               ├─ vector search  ├─ prompt  ├─ APIs                  │
@@ -98,4 +99,3 @@ CURRENT     : Turning LLMs into
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
-</div>
