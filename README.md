@@ -48,6 +48,7 @@ PLATFORM    : Linux
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
 ### `~/status`
