@@ -18,8 +18,11 @@
 
 ### `~/system`
 
-```text
+```console
+● ● ●  hamid@github: ~/system
 ──────────────────────────────────────────────────
+hamid@github:~$ cat system.conf
+
 USER        : Hamid Mujtaba
 ROLE        : GenAI Engineer
 FOCUS       : LLM Applications
@@ -46,6 +49,8 @@ APP LAYER   : Streamlit
 
 EDITOR      : VS Code
 PLATFORM    : Linux
+
+hamid@github:~$ █
 ```
 
 </td>
@@ -53,8 +58,11 @@ PLATFORM    : Linux
 
 ### `~/status`
 
-```text
+```console
+● ● ●  hamid@github: ~/status
 ──────────────────────────────────────────────────
+hamid@github:~$ tail -f status.log
+
 STATUS      : ONLINE ●
 
 BUILDING    : GenAI applications
@@ -74,6 +82,8 @@ MINDSET     : Build → Test → Break
 
 CURRENT     : Turning LLMs into
               useful software.
+
+hamid@github:~$ █
 ```
 
 </td>
@@ -84,11 +94,19 @@ CURRENT     : Turning LLMs into
 
 ## `~/about`
 
-> I build practical AI applications around **Large Language Models, Retrieval-Augmented Generation, NLP and AI agents**.
->
-> My focus is on taking an LLM beyond a chat interface — connecting it to data, tools, APIs and real application workflows.
+```console
+● ● ●  hamid@github: ~/about
+─────────────────────────────────────────────────────────────────────────
+hamid@github:~$ cat about.md
 
-```text
+I build practical AI applications around Large Language Models,
+Retrieval-Augmented Generation, NLP and AI agents.
+
+My focus is on taking an LLM beyond a chat interface — connecting it
+to data, tools, APIs and real application workflows.
+
+hamid@github:~$ ./pipeline --show
+
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │   INPUT  ──►  RETRIEVE  ──►  REASON  ──►  ACT  ──►  OUTPUT          │
@@ -98,4 +116,6 @@ CURRENT     : Turning LLMs into
 │               └─ re-ranking     └─ context └─ automation            │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
+
+hamid@github:~$ █
 ```
