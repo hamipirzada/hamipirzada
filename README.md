@@ -12,9 +12,9 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### `~/system`
 
@@ -48,7 +48,7 @@ PLATFORM    : Linux
 ```
 
 </td>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### `~/status`
 
